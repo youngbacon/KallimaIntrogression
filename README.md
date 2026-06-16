@@ -1,3 +1,3 @@
 # KallimaIntrogression
 
-# Neseq and ZSeq are adjustable for modeling
+ Neseq and ZSeq are adjustable for modeling
